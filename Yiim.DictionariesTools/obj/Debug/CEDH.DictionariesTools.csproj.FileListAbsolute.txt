@@ -1,0 +1,14 @@
+C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.DictionariesTools\bin\Debug\CEDH.DictionariesTools.pdb
+C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.DictionariesTools\obj\Debug\CEDH.DictionariesTools.pdb
+C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.DictionariesTools\bin\Debug\CEDH.DictionariesTools.exe
+C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.DictionariesTools\bin\Debug\CEDH.AreaFormat.dll
+C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.DictionariesTools\bin\Debug\CEDH.AreaFormat.pdb
+C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.DictionariesTools\obj\Debug\CEDH.DictionariesTools.csprojResolveAssemblyReference.cache
+C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.DictionariesTools\obj\Debug\CEDH.DictionariesTools.exe
+D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.DictionariesTools\bin\Debug\CEDH.DictionariesTools.exe
+D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.DictionariesTools\bin\Debug\CEDH.DictionariesTools.pdb
+D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.DictionariesTools\bin\Debug\CEDH.AreaFormat.dll
+D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.DictionariesTools\bin\Debug\CEDH.AreaFormat.pdb
+D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.DictionariesTools\obj\Debug\CEDH.DictionariesTools.csprojResolveAssemblyReference.cache
+D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.DictionariesTools\obj\Debug\CEDH.DictionariesTools.exe
+D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.DictionariesTools\obj\Debug\CEDH.DictionariesTools.pdb
