@@ -61,11 +61,11 @@ namespace Yiim.TestAreaFormat
                 });
             }
             return string.Format("{0} {1} {2} {3} {4} ({5})",
-                   x.Line[0] != null ? x.Line[0].WORD : "",
-                   x.Line[1] != null ? x.Line[1].WORD : "",
-                   x.Line[2] != null ? x.Line[2].WORD : "",
-                   x.Line[3] != null ? x.Line[3].WORD : "",
-                   x.Line[4] != null ? x.Line[4].WORD : "",
+                   x.Line[0] != null ? x.Line[0].WORD + "(" + x.Line[0].KEY + ")" : "",
+                   x.Line[1] != null ? x.Line[1].WORD + "(" + x.Line[1].KEY + ")" : "",
+                   x.Line[2] != null ? x.Line[2].WORD + "(" + x.Line[2].KEY + ")" : "",
+                   x.Line[3] != null ? x.Line[3].WORD + "(" + x.Line[3].KEY + ")" : "",
+                   x.Line[4] != null ? x.Line[4].WORD + "(" + x.Line[4].KEY + ")" : "",
                    x.TotalRank.ToString("0.00000"));
         }
     }
