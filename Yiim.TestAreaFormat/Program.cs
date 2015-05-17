@@ -16,7 +16,7 @@ namespace Yiim.TestAreaFormat
         protected Format format = new Format();
         static void Main(string[] args)
         {
-            new Program().TestWord("钟祥 磷矿 秦冲村");
+            new Program().TestWord("兴安县兴安镇城区青龙新村二巷3号252号");
         }
         public void TestWord(string word)
         {
