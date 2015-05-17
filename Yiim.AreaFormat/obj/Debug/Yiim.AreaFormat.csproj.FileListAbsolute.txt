@@ -1,4 +1,0 @@
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.AreaFormat\bin\Debug\Yiim.AreaFormat.dll
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.AreaFormat\bin\Debug\Yiim.AreaFormat.pdb
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.AreaFormat\obj\Debug\Yiim.AreaFormat.dll
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.AreaFormat\obj\Debug\Yiim.AreaFormat.pdb

@@ -1,9 +1,0 @@
-C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.AreaFormat\bin\Debug\CEDH.AreaFormat.dll
-C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.AreaFormat\bin\Debug\CEDH.AreaFormat.pdb
-C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.AreaFormat\obj\Debug\CEDH.AreaFormat.dll
-C:\Users\GuoHai\Desktop\CreateAreaFiles\CEDH.AreaFormat\obj\Debug\CEDH.AreaFormat.pdb
-D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.AreaFormat\bin\Debug\CEDH.AreaFormat.dll
-D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.AreaFormat\bin\Debug\CEDH.AreaFormat.pdb
-D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.AreaFormat\obj\Debug\CEDH.AreaFormat.csprojResolveAssemblyReference.cache
-D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.AreaFormat\obj\Debug\CEDH.AreaFormat.dll
-D:\Developing\Project\Csharp\CEDH.AreaFormat\CEDH.AreaFormat\obj\Debug\CEDH.AreaFormat.pdb

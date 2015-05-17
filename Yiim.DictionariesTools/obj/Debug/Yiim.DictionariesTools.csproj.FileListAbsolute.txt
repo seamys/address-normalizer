@@ -1,7 +1,0 @@
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.DictionariesTools\obj\Debug\Yiim.DictionariesTools.csprojResolveAssemblyReference.cache
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.DictionariesTools\bin\Debug\Yiim.DictionariesTools.exe
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.DictionariesTools\bin\Debug\Yiim.DictionariesTools.pdb
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.DictionariesTools\bin\Debug\Yiim.AreaFormat.dll
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.DictionariesTools\bin\Debug\Yiim.AreaFormat.pdb
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.DictionariesTools\obj\Debug\Yiim.DictionariesTools.exe
-D:\Developing\Project\Csharp\Yiim.AreaFormat\Yiim.DictionariesTools\obj\Debug\Yiim.DictionariesTools.pdb
