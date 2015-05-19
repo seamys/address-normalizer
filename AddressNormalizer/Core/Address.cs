@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Yiim.AreaFormat.Core
+namespace AddressNormalizer.Core
 {
     public class Address
     {

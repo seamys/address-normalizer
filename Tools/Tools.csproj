@@ -7,8 +7,8 @@
     <ProjectGuid>{299EC9B1-BC1E-4623-BE53-C15BE7A2A28A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Yiim.DictionariesTools</RootNamespace>
-    <AssemblyName>Yiim.DictionariesTools</AssemblyName>
+    <RootNamespace>Tools</RootNamespace>
+    <AssemblyName>Tools</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -51,9 +51,9 @@
     <Folder Include="Dictionaries\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Yiim.AreaFormat\Yiim.AreaFormat.csproj">
+    <ProjectReference Include="..\AddressNormalizer\AddressNormalizer.csproj">
       <Project>{07dbff31-1296-49d5-9eda-f9708c7b6647}</Project>
-      <Name>Yiim.AreaFormat</Name>
+      <Name>AddressNormalizer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Yiim.AreaFormat.Core
+namespace AddressNormalizer.Core
 {
     public class WordsUtility
     {
@@ -17,7 +17,7 @@ namespace Yiim.AreaFormat.Core
         {
             Words = new List<WORDS>();
             FlagWords = new List<FLAG_WORDS>();
-            InitWords("Yiim.AreaFormat.Dictionaries.words.dic");
+            InitWords("AddressNormalizer.Dictionaries.words.dic");
             InitFlagWords();
         }
         protected static void InitFlagWords()

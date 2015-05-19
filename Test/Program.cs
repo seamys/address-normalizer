@@ -1,5 +1,5 @@
-﻿using Yiim.AreaFormat;
-using Yiim.AreaFormat.Core;
+﻿using AddressNormalizer;
+using AddressNormalizer.Core;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Yiim.TestAreaFormat
+namespace Test
 {
     class Program
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Yiim.DictionariesTools
+namespace Tools
 {
     public class Region
     {

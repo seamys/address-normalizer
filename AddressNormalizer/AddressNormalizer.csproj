@@ -7,8 +7,8 @@
     <ProjectGuid>{07DBFF31-1296-49D5-9EDA-F9708C7B6647}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Yiim.AreaFormat</RootNamespace>
-    <AssemblyName>Yiim.AreaFormat</AssemblyName>
+    <RootNamespace>AddressNormalizer</RootNamespace>
+    <AssemblyName>AddressNormalizer</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

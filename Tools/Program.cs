@@ -1,4 +1,4 @@
-﻿using Yiim.AreaFormat.Core;
+﻿using AddressNormalizer.Core;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Yiim.DictionariesTools
+namespace Tools
 {
     class Program
     {

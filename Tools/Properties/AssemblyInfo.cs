@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Yiim.AreaFormat")]
-[assembly: AssemblyDescription("地址格式化")]
+[assembly: AssemblyTitle("Tools")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Yiim.AreaFormat")]
+[assembly: AssemblyProduct("Tools")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("620e58c3-972f-49fb-921b-2e6f3ad11200")]
+[assembly: Guid("b11895a4-b00e-4047-a182-9536fc45681e")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -21,7 +21,7 @@ using System.Diagnostics;
 using System.Globalization;
 using System.Linq.Expressions;
 
-namespace Yiim.DictionariesTools
+namespace Tools
 {
     [AssemblyNeutral, AttributeUsage(AttributeTargets.Class | AttributeTargets.Interface | AttributeTargets.Struct, AllowMultiple = false, Inherited = false)]
     internal sealed class AssemblyNeutralAttribute : Attribute { }
